@@ -1,0 +1,30 @@
+{
+  "name": "Mantecadas",
+  "prep time": "10 mins",
+  "cook time": "14 mins",
+  "rest time": "30 mins",
+  "yield": "18 muffins",
+  "ingredients": {
+    "flour": "250g",
+    "baking powder": "2 teaspoons",
+    "baking soda": "1/2 teaspoon",
+    "salt": "1 teaspoon",
+    "sugar": "250g",
+    "whole milk": "236g",
+    "neutral oil": "112g",
+    "large eggs": 2,
+    "vanilla extract": "1 tablespoon"
+  },
+  "method": {
+    "step 1": "Prepare a muffin tin",
+    "step 2": "Make the muffin batter",
+    "step 3": "Divide up the batter and preheat the oven",
+    "step 4": "Bake"
+  },
+  "nutrition facts": {
+    "calories": 178,
+    "fat": "7g",
+    "carbs": "25g",
+    "protein": "3g"
+  }
+}
