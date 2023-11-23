@@ -1,0 +1,119 @@
+{
+  "Monday": {
+    "date": "10/02/2023",
+    "events": {
+      "meeting": {
+        "start_time": "12:30pm",
+        "end_time": "3pm",
+        "description": "present new feature"
+      },
+      "dad's b-day": {
+        "start_time": "5pm",
+        "end_time": "9pm",
+        "description": "buy gift certificate"
+      }
+    }
+  },
+  "Tuesday": {
+    "date": "10/03/2023",
+    "events": {
+      "dentist": {
+        "start_time": "1pm",
+        "end_time": "2pm"
+      },
+      "go on a date": {
+        "start_time": "6pm",
+        "end_time": "10pm",
+        "description": "buy flowers"
+      }
+    }
+  },
+  "Wednesday": {
+    "date": "10/04/2023",
+    "events": {
+      "work": {
+        "start_time": "10am",
+        "end_time": "6pm",
+        "description": "plan meeting with new co-workers, re-open bag, update test cases"
+      },
+      "gym": {
+        "start_time": "6:30pm",
+        "end_time": "7:30pm",
+        "description": "extend membership"
+      },
+      "dinner with family": {
+        "start_time": "8pm",
+        "end_time": "10pm",
+        "desription": "buy fruits, red wine, cheese"
+      }
+    }
+  },
+  "Thursday": {
+    "date": "10/05/2023",
+    "events": {
+      "swimming": {
+        "start_time": "9am",
+        "end_time": "10:30am"
+      },
+      "work": {
+        "start_time": "11am",
+        "end_time": "7pm",
+        "description": "present app to business partners, check requirements for 'WeekPlan' app, check trainee co-workers"
+      },
+      "hang out with friends": {
+        "start_time": "8pm"
+      },
+      "groceries": {
+        "description": {
+          "bread": 1,
+          "oranges": "1kg",
+          "water": 3,
+          "eggs": 10,
+          "chocolate": 2,
+          "cheese": 1,
+          "butter": 1,
+          "red meat": "3kg"
+        }
+      }
+    }
+  },
+  "Friday": {
+    "date": "10/06/2023",
+    "events": {
+      "gym": {
+        "start_time": "8am",
+        "end_time": "9am"
+      },
+      "work": {
+        "start_time": "10am",
+        "end_time": "6pm",
+        "description": "send bag reports to developers, check trainee's test cases"
+      },
+      "business meeting": {
+        "start_time": "4pm",
+        "end_time": "6pm"
+      },
+      "go on a date": {
+        "start_time": "8pm",
+        "description": "buy tickets to cinema"
+      }
+    }
+  },
+  "Saturday": {
+    "date": "10/07/2023",
+    "events": {
+      "plan 4-day trip": [
+        {
+          "firstName": "Julia",
+          "lastName": "Memberson",
+          "phone": 4158372984
+        },
+        {
+          "firstName": "Pares",
+          "lastName": "Hilres",
+          "phone": 4157365849
+        }
+      ]
+    }
+  }
+}
