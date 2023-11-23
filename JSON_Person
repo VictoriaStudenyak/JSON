@@ -1,0 +1,11 @@
+{
+  "firstName": "Mike",
+  "lastName": "Vazovsky",
+  "age": 18,
+  "email": "vazovsky@gmail.com",
+  "address": {
+    "street": "2nd Terzales",
+    "city": "New York",
+    "country": "USA"
+  }
+}
