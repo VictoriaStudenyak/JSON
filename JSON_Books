@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "title": "The Murder of Roger Ackroyd",
+      "author": " Agatha Christie",
+      "genre": "detective",
+      "pages": 288
+    },
+    {
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "genre": "fantasy novel",
+      "pages": 448
+    },
+    {
+      "title": "Holly",
+      "author": "Stephen King",
+      "genre": "novel",
+      "pages": 464
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "genre": "psychological thriller",
+      "pages": 336
+    },
+    {
+      "title": "The Housemaid",
+      "author": "Freida McFadden",
+      "genre": "psychological thriller",
+      "pages": 336
+    }
+  ]
+}
